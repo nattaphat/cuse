@@ -1,0 +1,5 @@
+_assetic:
+    resource: .
+    type: assetic
+_app:
+    resource: /data/html/www/haii/cuse/app/config/routing_dev.yml
